@@ -1,0 +1,23 @@
+{
+  "name": "Kisan-Lens: AI Plant Diagnosis",
+  "short_name": "KisanLens",
+  "description": "An offline-first PWA for farmers to diagnose plant diseases using on-device AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#059669",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiBmaWxsPSIjMDU5NjY5Ii8+CjxwYXRoIGQ9Ik0yNTYgMTAwQzMwMCAxMDAgMzM2IDEzNiAzMzYgMTgwVjMzMkMzMzYgMzc2IDMwMCA0MTIgMjU2IDQxMkMyMTIgNDEyIDE3NiAzNzYgMTc2IDMzMlYxODBDMTc2IDEzNiAyMTIgMTAwIDI1NiAxMDBaIiBmaWxsPSJ3aGl0ZSIvPgo8Y2lyY2xlIGN4PSIyMjAiIGN5PSIyMDAiIHI9IjE2IiBmaWxsPSIjMDU5NjY5Ii8+CjxjaXJjbGUgY3g9IjI5MiIgY3k9IjIwMCIgcj0iMTYiIGZpbGw9IiMwNTk2NjkiLz4KPHBhdGggZD0iTTIyMCAyNjBIMjkyQzI5MiAyNzYgMjc2IDI5MiAyNTYgMjkyQzIzNiAyOTIgMjIwIDI3NiAyMjAgMjYwWiIgZmlsbD0iIzA1OTY2OSIvPgo8L3N2Zz4K",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiBmaWxsPSIjMDU5NjY5Ii8+CjxwYXRoIGQ9Ik0yNTYgMTAwQzMwMCAxMDAgMzM2IDEzNiAzMzYgMTgwVjMzMkMzMzYgMzc2IDMwMCA0MTIgMjU2IDQxMkMyMTIgNDEyIDE3NiAzNzYgMTc2IDMzMlYxODBDMTc2IDEzNiAyMTIgMTAwIDI1NiAxMDBaIiBmaWxsPSJ3aGl0ZSIvPgo8Y2lyY2xlIGN4PSIyMjAiIGN5PSIyMDAiIHI9IjE2IiBmaWxsPSIjMDU5NjY5Ii8+CjxjaXJjbGUgY3g9IjI5MiIgY3k9IjIwMCIgcj0iMTYiIGZpbGw9IiMwNTk2NjkiLz4KPHBhdGggZD0iTTIyMCAyNjBIMjkyQzI5MiAyNzYgMjc2IDI5MiAyNTYgMjkyQzIzNiAyOTIgMjIwIDI3NiAyMjAgMjYwWiIgZmlsbD0iIzA1OTY2OSIvPgo8L3N2Zz4K",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
